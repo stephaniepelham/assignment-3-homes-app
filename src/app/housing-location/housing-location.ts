@@ -9,5 +9,5 @@ import { Housinglocationinfo } from '../housinglocationinfo';
   styleUrl: './housing-location.css',
 })
 export class HousingLocation {
-housinglocation= input.required<Housinglocationinfo>();
+housingLocation= input.required<Housinglocationinfo>();
 }
